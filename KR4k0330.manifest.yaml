@@ -1,0 +1,1236 @@
+canonical_identifier: bkk:krp/KR4k0330/v1
+canonical_location: https://kanripo.org/bkk/KR4k0330/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
+assets:
+  parts:
+  - {seq: 0, filename: KR4k0330_000.yaml, hash: 'sha256:af22d62894a87abb3e325d9fe5b550afae12f3dd91c9c1169784b9cd73c51f05'}
+  - {seq: 1, filename: KR4k0330_001.yaml, hash: 'sha256:8fd148361114abd1718b73cb2d32ece730af5bafa1846853e061456f4d8012ed'}
+  - {seq: 2, filename: KR4k0330_002.yaml, hash: 'sha256:e712e42849b633d6e1584ad1cbdd3de41059b51c251ab370ff9795fcd8969cd4'}
+  - {seq: 3, filename: KR4k0330_003.yaml, hash: 'sha256:f47c703e52f1824ec8230511f740dfc48ccc361823bd44ea7a078910b4c0e992'}
+  - {seq: 4, filename: KR4k0330_004.yaml, hash: 'sha256:34eb1e13d593ad0f52fa65dddf433a08e9aaeb17a132b21f5f5bc014aea664ed'}
+  - {seq: 5, filename: KR4k0330_005.yaml, hash: 'sha256:ec9ea4f0f41a5e81b8b3f3a2da2ffede31aefae8c17c16e6144459fe4e7895ff'}
+  - {seq: 6, filename: KR4k0330_006.yaml, hash: 'sha256:957bf1ae8c3c03129576c95b2e3e47e0e8b0832ee601a9abbacc2b1864839805'}
+  - {seq: 7, filename: KR4k0330_007.yaml, hash: 'sha256:34b4c99ec3b61b2abc61fa3b8bd8960e4e4bbf5e53766a87e2c48b8cc925c765'}
+  - {seq: 8, filename: KR4k0330_008.yaml, hash: 'sha256:a34879d30136c71940682292cb66a5c9e82c10367e5f51efbef213d6c1a16cee'}
+  - {seq: 9, filename: KR4k0330_009.yaml, hash: 'sha256:546c62b8667ee8aaf04d66d91cedb88a73f688ead429476505e9e522117d74b5'}
+  - {seq: 10, filename: KR4k0330_010.yaml, hash: 'sha256:525e16fc916e6d904cb5d7dd7999231decdc808e0c9cb1bce1106bf5aa8ffbc1'}
+  - {seq: 11, filename: KR4k0330_011.yaml, hash: 'sha256:364a358628e940f01ca661f1518d431c499ee243d62c3a0933532556ea2d0cdf'}
+  - {seq: 12, filename: KR4k0330_012.yaml, hash: 'sha256:049c830daf7713019adc1d530049e30a49a1eb9f4b578ad8d8b6e51cba9ab8d6'}
+  - {seq: 13, filename: KR4k0330_013.yaml, hash: 'sha256:9901852448a86588033f3e07cb4ca713525cf03466f2417d6736b47d6cfec0eb'}
+  - {seq: 14, filename: KR4k0330_014.yaml, hash: 'sha256:d598472465f6d099e476c8d3270e6748353179370cd57e650ddfcc123506ea0c'}
+  - {seq: 15, filename: KR4k0330_015.yaml, hash: 'sha256:7f5cd610e582cccacca5d8a2abab35731ac5371a5badd71fbaadc4b4b66f5113'}
+  - {seq: 16, filename: KR4k0330_016.yaml, hash: 'sha256:d6e628f00fe75b731c73bbf6b3a3e0f041bffffe6993cb48bbb83d34e0287c0b'}
+  - {seq: 17, filename: KR4k0330_017.yaml, hash: 'sha256:3be95f88d7d362b4efe1ef6b443b0708c4ac44b295a0e7d487b25d6298d768ff'}
+  - {seq: 18, filename: KR4k0330_018.yaml, hash: 'sha256:b0d618afa08bddb2aecbd1660461e0894834eb8b15eabd814e532c03dde67506'}
+  - {seq: 19, filename: KR4k0330_019.yaml, hash: 'sha256:ca2b6857b0eb359244da5614ebfdf8239c6acbb8f1dfecc345a72410b26f1b9a'}
+  - {seq: 20, filename: KR4k0330_020.yaml, hash: 'sha256:ee8eb61d37ae4ebad8c22d0f137872f43d2eeab61f3db45ac4f3865dccd739a0'}
+  - {seq: 21, filename: KR4k0330_021.yaml, hash: 'sha256:fe6497443ab5367ebeb2a00f9c121e93d1be0d5313b14e1efa5be45801f184c8'}
+  - {seq: 22, filename: KR4k0330_022.yaml, hash: 'sha256:a0baf08a4322df56a34cec51fb2f1701bcf3609db7c708999aec50ddfeb5136a'}
+  - {seq: 23, filename: KR4k0330_023.yaml, hash: 'sha256:ea018a78aee74d614722af2cf55e34c02804d870d60b6ceb5f908506106837ef'}
+  - {seq: 24, filename: KR4k0330_024.yaml, hash: 'sha256:ace3064a3618df05a6f2dbdeeb3892f54fcbb3eed3fadd900165868f6619ee22'}
+  - {seq: 25, filename: KR4k0330_025.yaml, hash: 'sha256:ecee1a7e1687d99c7f5b9391c96379273581cc243eb856157b6e6c1c4f9d8273'}
+  - {seq: 26, filename: KR4k0330_026.yaml, hash: 'sha256:c00700d3f10d37f0b125d0fbb57dbd5d5fbb312c2897ff67005276b716aa4d73'}
+  - {seq: 27, filename: KR4k0330_027.yaml, hash: 'sha256:62fd7196209120cfe05705f8ded034749e0c8adc2267bf2c64d3306a4abf9686'}
+  - {seq: 28, filename: KR4k0330_028.yaml, hash: 'sha256:92b0b97ae8324dfbd9eb5bf6cbdc4b4abb6df05539914987680685e640b8aa43'}
+  - {seq: 29, filename: KR4k0330_029.yaml, hash: 'sha256:336f22a084ff09dd3d9d246a6cabfdad0f35369bef0771fe6fb321e53701d6af'}
+  - {seq: 30, filename: KR4k0330_030.yaml, hash: 'sha256:be33e2cc97bd313c9e9ea3baa38dd4c8710efe733c46c4396aa57fcf382804db'}
+  - {seq: 31, filename: KR4k0330_031.yaml, hash: 'sha256:3056c106fb384424c9e0013d73055965c9fd6060884e439518d9061dbef3f9ad'}
+  - {seq: 32, filename: KR4k0330_032.yaml, hash: 'sha256:bcb64041e153b50b8e6fe576a20d503a1d4095cbe01590272bf07727ad9a8e0b'}
+  - {seq: 33, filename: KR4k0330_033.yaml, hash: 'sha256:84b6ad097ddd2d1b311f13ae7ddb5900b45de45686eec3da5469443e0f96267b'}
+  - {seq: 34, filename: KR4k0330_034.yaml, hash: 'sha256:0f3ee67066bcf5584e98703220ed199ea79eed5a90b2d288ad2cb19603101a12'}
+  - {seq: 35, filename: KR4k0330_035.yaml, hash: 'sha256:f2ffc873ee82b484100d6101ded6c5068199202aaeaf6c48ada59249648bddb4'}
+  - {seq: 36, filename: KR4k0330_036.yaml, hash: 'sha256:b726e5cef4436ecaaa24900e52d20de961af47f06a6112a5c74012f10f6bfd1c'}
+  - {seq: 37, filename: KR4k0330_037.yaml, hash: 'sha256:8a34b15cc988ba71116405b6fbd92d704744b77eac4b70ba36c9c73a55e9aed6'}
+  - {seq: 38, filename: KR4k0330_038.yaml, hash: 'sha256:124cf238900d890d307d561621eb5700d1f3dedaecf1c144c7f2e39afdfcc6eb'}
+  - {seq: 39, filename: KR4k0330_039.yaml, hash: 'sha256:a8f62c8b972b327591c0ca85e1d87250c1cc6dd335e69dd695f6a95686656e03'}
+  - {seq: 40, filename: KR4k0330_040.yaml, hash: 'sha256:eedfa8c76d159dddf5fb6c5baf1e80a5bc48c3c6f69a74ae79ce8a5b50e6f2bf'}
+  - {seq: 41, filename: KR4k0330_041.yaml, hash: 'sha256:d7b5b6a87c28fe553e9c3b213a25c234ab41637088f37bd501916dc79c258ace'}
+  - {seq: 42, filename: KR4k0330_042.yaml, hash: 'sha256:c651e5d562307191268b5d218e4544e9ad7bc8d8dfbb5e9de07e206f24ab536a'}
+  - {seq: 43, filename: KR4k0330_043.yaml, hash: 'sha256:e58b3e68972a7ab3f8424740a172604194e45daca384aafc3e83ce39118eef36'}
+  - {seq: 44, filename: KR4k0330_044.yaml, hash: 'sha256:fa6364fd2631732bddcdb9587a20a0dce55ceb5f067cf94e5be0fa4811428d4b'}
+  - {seq: 45, filename: KR4k0330_045.yaml, hash: 'sha256:5d5d95da07035bccedd24332fa01f37e2026850820cbb8ef37747d17c79862bc'}
+  - {seq: 46, filename: KR4k0330_046.yaml, hash: 'sha256:9b07ce192bfcfac9404464b7c81ccad500ce43fc1812bc963dfef74537d967ed'}
+  - {seq: 47, filename: KR4k0330_047.yaml, hash: 'sha256:9262c85478da8058d13cdb2532af29866d132d34ff8dca8ef1583fa2d8c57488'}
+  - {seq: 48, filename: KR4k0330_048.yaml, hash: 'sha256:8ed353784448c89e6274c00dc3044abee8f94eda28951a6f6a83457fb4b2a5d5'}
+  - {seq: 49, filename: KR4k0330_049.yaml, hash: 'sha256:9cf9c1a08d7ab54aff2181f940330faa0d335e946c5ac18db6cf83a2e23a093a'}
+  - {seq: 50, filename: KR4k0330_050.yaml, hash: 'sha256:862477262aa023a590205907378533716581288c8f4b6753bd005bad86ecfcf4'}
+  - {seq: 51, filename: KR4k0330_051.yaml, hash: 'sha256:5982dab82b0f6600a48038c3683f17473129075f6817298a76b33209087ddd2b'}
+  - {seq: 52, filename: KR4k0330_052.yaml, hash: 'sha256:109a840daf653d871b7bf5bcab1643cf48829633721e95ee829f96c1e38142bf'}
+  - {seq: 53, filename: KR4k0330_053.yaml, hash: 'sha256:65990b3e963503b8ccf2fa7f6ef0b6765f04710db0528b8165db2f8c802aeb44'}
+  - {seq: 54, filename: KR4k0330_054.yaml, hash: 'sha256:646eebfdc485f80fb1db8fcf7409ac0e7953d62a3efacbf320aecb10d4d7da27'}
+  - {seq: 55, filename: KR4k0330_055.yaml, hash: 'sha256:13f51b37847897b4fe7b3e77334aa8d9584b2b433fc9123493864d9b6de9c802'}
+  - {seq: 56, filename: KR4k0330_056.yaml, hash: 'sha256:ef0b71c49e20c3c6f857d7f8d9393666d9aa102cec527a8812fad980e13b7d73'}
+  - {seq: 57, filename: KR4k0330_057.yaml, hash: 'sha256:4be72524d93240ebd8db6f7992d38fcef1d0f53575473e04cdf7fd2f2b31e907'}
+  - {seq: 58, filename: KR4k0330_058.yaml, hash: 'sha256:d170e8726b6a754f0dcd4591a89d06bec40dbe8295de2d15aa809e1c60695bab'}
+  - {seq: 59, filename: KR4k0330_059.yaml, hash: 'sha256:d41da7f35c91b8f51d862ad6fefc471a21335306015aefd5d074139997edc88a'}
+  - {seq: 60, filename: KR4k0330_060.yaml, hash: 'sha256:1cb09058eebbdf1d1cbeaaa48c0bdc6190192bffcd610e9183aa32efff40fc6f'}
+  - {seq: 61, filename: KR4k0330_061.yaml, hash: 'sha256:74f829ab7661029e54dc91ebdff27c7ddcbcc19948bd300876e1ddbc4ff674bd'}
+  - {seq: 62, filename: KR4k0330_062.yaml, hash: 'sha256:915f11bf58e838c1374dc4ac95105029e21b575e4f416003ec180c080826ad13'}
+  - {seq: 63, filename: KR4k0330_063.yaml, hash: 'sha256:7013b6d5d7e8de3ff6bc50752bf0aac55bde9c4676604a46fd7824e6af7ff766'}
+  - {seq: 64, filename: KR4k0330_064.yaml, hash: 'sha256:6d45df5315eaabd53a8032b3f8194f01d6f3de34eddb1e1c8937e75ea709bcab'}
+  - {seq: 65, filename: KR4k0330_065.yaml, hash: 'sha256:f8c4827b5f14afe1684feb19b4517a425d730131ca7df6ca8c101bcf7f690099'}
+  - {seq: 66, filename: KR4k0330_066.yaml, hash: 'sha256:fe4e8053f4d0e489bc0961502f823e47f6fe0923c539b1e021e950215800d28e'}
+  - {seq: 67, filename: KR4k0330_067.yaml, hash: 'sha256:eb41635994d3b8c55f2282672aba79a0ea19a3c472276698c018a1ca4edf5fd9'}
+  - {seq: 68, filename: KR4k0330_068.yaml, hash: 'sha256:78588285758d9867ba62b972da9e2784722d62018f5bee70903e18cebfe3d4d8'}
+  - {seq: 69, filename: KR4k0330_069.yaml, hash: 'sha256:dcfd11be3fd001fbd585870b9288ce7e4a99117e7a2c21b38ed11ed75799d9a4'}
+  - {seq: 70, filename: KR4k0330_070.yaml, hash: 'sha256:626f2c39a9138b269201e6be573c73592c5d8714107455f3727080caf15e628b'}
+  - {seq: 71, filename: KR4k0330_071.yaml, hash: 'sha256:7cd196189d54ee222022abaf073590026fb488267e292cd16fc7c27036e9ebbc'}
+  - {seq: 72, filename: KR4k0330_072.yaml, hash: 'sha256:6a7886ea3a60a6a9f5c51ab518c5a8f858a5c3e0a38e1cfbc3d718d9def17782'}
+  - {seq: 73, filename: KR4k0330_073.yaml, hash: 'sha256:a340830742ffb1a8389ba65b292908f4877750b194684f1b5f02672f49cdc9d4'}
+  - {seq: 74, filename: KR4k0330_074.yaml, hash: 'sha256:efcff4ff1d4bc6b1edb442b1c2645340157e678f3f2ccd2c16dcffff1e7a3a78'}
+  - {seq: 75, filename: KR4k0330_075.yaml, hash: 'sha256:c576b5c30e9c8939159f92846422974f9d6dc350f1e34d651079fcbbda3fa385'}
+  - {seq: 76, filename: KR4k0330_076.yaml, hash: 'sha256:616e6c77cc3302bf557a286a0a972d7cf9df18800ddad60eb5dcac183c8e9c21'}
+  - {seq: 77, filename: KR4k0330_077.yaml, hash: 'sha256:2d33939bcd5c37a5d38c10a5bba0fc27bc0f74cf66d11615c0cd0083cd48a65f'}
+  - {seq: 78, filename: KR4k0330_078.yaml, hash: 'sha256:f8581dcc3b7cd3e6129ad5374ed7df45063f7af9f101217bc46754afc19f1caf'}
+  - {seq: 79, filename: KR4k0330_079.yaml, hash: 'sha256:b5940b160aa9c0a727b342b2aedc75c922f968822da267678bfa7dd0ffec55b8'}
+  - {seq: 80, filename: KR4k0330_080.yaml, hash: 'sha256:cdee1f8e58a9a169623454d3865622f440ee9fba96504132b2849cbb3da3a9e7'}
+  - {seq: 81, filename: KR4k0330_081.yaml, hash: 'sha256:bd9d5cce22cf63daa253e195e6d5a2c2c680ab288f9714c8d031a0100ad36ee9'}
+  - {seq: 82, filename: KR4k0330_082.yaml, hash: 'sha256:41c685b45823902e454528ae73bfba1753ce037c5af5fcc43760afef3f1d6dd1'}
+  - {seq: 83, filename: KR4k0330_083.yaml, hash: 'sha256:7eb05ee8b3ed388337d5b82cb6cf17a4bbf2ed3342332c634baefc38abba8bc5'}
+  - {seq: 84, filename: KR4k0330_084.yaml, hash: 'sha256:d85627ea9f59c6fdcb3faf640babb6fef8bc808aabe8d4ee766d3d97b7bcb722'}
+  - {seq: 85, filename: KR4k0330_085.yaml, hash: 'sha256:cdbe72a67580cf8d50adfcfe8c8c5fe6a6658fb6ce9e28b6f43a5a50756418a3'}
+  - {seq: 86, filename: KR4k0330_086.yaml, hash: 'sha256:7a17d382ddfde5f4ceb2abb89106a8e4c91c2bb4504e47c31cac7e855175c1a6'}
+  - {seq: 87, filename: KR4k0330_087.yaml, hash: 'sha256:779e3c4c20ed040e8001cf5b974bdeea448eaa13364bbec608160abb2ecd4667'}
+  - {seq: 88, filename: KR4k0330_088.yaml, hash: 'sha256:07e281e9390e2cf9f8479cc953448c55abe8f5354af12f3041eec2d727846668'}
+  - {seq: 89, filename: KR4k0330_089.yaml, hash: 'sha256:f65b437898a982e80d5345ad9bea34a353f2b20bdef1b1df01873918f2398960'}
+  - {seq: 90, filename: KR4k0330_090.yaml, hash: 'sha256:afe70363344b4dfbeeafec77d9fdcf24b7633335ad4f3e1eea18ae09e5178dda'}
+  - {seq: 91, filename: KR4k0330_091.yaml, hash: 'sha256:d5d91f6c042806c24fd434a1b7eb547fdbf49d106a81eb9088f29a8c949cd198'}
+  - {seq: 92, filename: KR4k0330_092.yaml, hash: 'sha256:218fdb6bd156ef943b2a64f305c3a7c6095b958375b52780ad6f5842366762d5'}
+  - {seq: 93, filename: KR4k0330_093.yaml, hash: 'sha256:d328f28efcfca5f07fe8b44d8cfb57982efa51a0a4902f858c6b59dddbdcd694'}
+  - {seq: 94, filename: KR4k0330_094.yaml, hash: 'sha256:a4087cf85d126dd601c596a353133d621808b38290ab00f19d6e61395abc68a7'}
+  - {seq: 95, filename: KR4k0330_095.yaml, hash: 'sha256:fe3c275d30b8f3c5afbc12066775fc9e7e8e7f0999957b217bf8027e6a24f7e3'}
+  - {seq: 96, filename: KR4k0330_096.yaml, hash: 'sha256:26dca9342ea400d0a921e70537409522a84e7dec76cee3b95574436e2f26fa60'}
+  - {seq: 97, filename: KR4k0330_097.yaml, hash: 'sha256:3e22f56e90bd0b73ebbd4b42326f5e16c39bdfa48e60b814cb03cd66cc12f99b'}
+  - {seq: 98, filename: KR4k0330_098.yaml, hash: 'sha256:5e175d693f9986e32e0754c6063d8b4d67c4b5e4422067c5971d70815352b65b'}
+  - {seq: 99, filename: KR4k0330_099.yaml, hash: 'sha256:8e6b82827a345aff5baf55cce25eef031adbd1d955c0e33e9467369c65daf494'}
+  - {seq: 100, filename: KR4k0330_100.yaml, hash: 'sha256:35e2a243667ab59136104c2d8d19bc3fee69b3716279234e11ae33516b407657'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4k0330_000.markers.yaml, hash: 'sha256:c7c8a606f14d9a07b996960600a783e5da6529e992593e7fac3d6f687cb0136e'}
+  - {seq: 1, role: markers, filename: assets/KR4k0330_001.markers.yaml, hash: 'sha256:02fc21472f2dfed4d607eacc7af20722f62b8203504d82890893644feed3bc36'}
+  - {seq: 2, role: markers, filename: assets/KR4k0330_002.markers.yaml, hash: 'sha256:97d1a623f2ec99b7a1a3b3b2707206aac7362b4824fd7e258a70d960dfca5bd3'}
+  - {seq: 3, role: markers, filename: assets/KR4k0330_003.markers.yaml, hash: 'sha256:67a844b51f7fa4fd909660d3a7c37b100a775e1c47ad345819d39ede8405c896'}
+  - {seq: 4, role: markers, filename: assets/KR4k0330_004.markers.yaml, hash: 'sha256:9797d4a97c1b817d62723c3e29ee7c24f56771df7977b32a804ffcf2f47ee49b'}
+  - {seq: 5, role: markers, filename: assets/KR4k0330_005.markers.yaml, hash: 'sha256:c583c91ab67eda4f64c885a5a39a678d7b97a127f72ca8d2db1006c983b3111a'}
+  - {seq: 6, role: markers, filename: assets/KR4k0330_006.markers.yaml, hash: 'sha256:eea1bcb9cf5cd0641959de876b342f648d5e0bdcebd24194fdd05f660c38b0ec'}
+  - {seq: 7, role: markers, filename: assets/KR4k0330_007.markers.yaml, hash: 'sha256:9709f6e903a855867050349cc62679815b77cf55f80741a67ddcbc8f17490bd2'}
+  - {seq: 8, role: markers, filename: assets/KR4k0330_008.markers.yaml, hash: 'sha256:c08129a4319a0f1dfbe6022beec6c8103a1f343a776e924c81c661bd364de093'}
+  - {seq: 9, role: markers, filename: assets/KR4k0330_009.markers.yaml, hash: 'sha256:af78e1189788c0054b3e26ff0b47e0109e2459236aa15cb2e624ac97edabb8ba'}
+  - {seq: 10, role: markers, filename: assets/KR4k0330_010.markers.yaml, hash: 'sha256:73c462b951b73ab359b14f6188756ed28e3e959057025ee03c0f5b1a917fc098'}
+  - {seq: 11, role: markers, filename: assets/KR4k0330_011.markers.yaml, hash: 'sha256:20951c008204d8ce1809d40e57271eff708c58ce5b617e5fb9114d9654d2b926'}
+  - {seq: 12, role: markers, filename: assets/KR4k0330_012.markers.yaml, hash: 'sha256:fddced8cdb7dc66672599c0abae7f9b7fd7cf42ac1cf4d8cdcc7b0d3749dccab'}
+  - {seq: 13, role: markers, filename: assets/KR4k0330_013.markers.yaml, hash: 'sha256:faa05fbae58cfabac03721b7a57539f98e0f820eed0e9a797ffacc003fec58ca'}
+  - {seq: 14, role: markers, filename: assets/KR4k0330_014.markers.yaml, hash: 'sha256:f46aa103836d8c8f45ce628beba809cf460cac31558e7ad49b5073f4ff4115aa'}
+  - {seq: 15, role: markers, filename: assets/KR4k0330_015.markers.yaml, hash: 'sha256:743bcb91dc03444b3f76ac460165e879a66827c21ff6ed3f23aa749701cbd460'}
+  - {seq: 16, role: markers, filename: assets/KR4k0330_016.markers.yaml, hash: 'sha256:6ab1bc7e74655824fcf93141201ed4222c3a3c07ffb13c6668de54e7796c9ea7'}
+  - {seq: 17, role: markers, filename: assets/KR4k0330_017.markers.yaml, hash: 'sha256:0b9a9cb149d3be6d190df08a410d216fd1d369778f658175d764770e32a236ed'}
+  - {seq: 18, role: markers, filename: assets/KR4k0330_018.markers.yaml, hash: 'sha256:480876ad7a7674aa1644a0238fae370633006c77cc0b8987980e2fd37a54b463'}
+  - {seq: 19, role: markers, filename: assets/KR4k0330_019.markers.yaml, hash: 'sha256:ef39ef74e274c0551c2296d66ffc795695d5d7cb9e89cf2e631cef98091e5bc9'}
+  - {seq: 20, role: markers, filename: assets/KR4k0330_020.markers.yaml, hash: 'sha256:996c3e9caf263afe929a87f29fc45d08cf9d0e0abd815dca7d2b93ea54e9b9a3'}
+  - {seq: 21, role: markers, filename: assets/KR4k0330_021.markers.yaml, hash: 'sha256:011d1aa8efa084aaf4d0a8dba62ce0189851407667eafa133dc7071553aecf38'}
+  - {seq: 22, role: markers, filename: assets/KR4k0330_022.markers.yaml, hash: 'sha256:dd66483c769b4ee7725e29374c593a7e650300db02eb0eb4e11c6b367ae908f2'}
+  - {seq: 23, role: markers, filename: assets/KR4k0330_023.markers.yaml, hash: 'sha256:f8035577285449c2b41a21e55e2ed6ff399799d8fbb0876028e9b8c07652da59'}
+  - {seq: 24, role: markers, filename: assets/KR4k0330_024.markers.yaml, hash: 'sha256:e3fb19d779df7bb35b446f0c8be19339bb1baa28ffefc5bf6a8c11b52343028e'}
+  - {seq: 25, role: markers, filename: assets/KR4k0330_025.markers.yaml, hash: 'sha256:4d56ea33c222a1b62169538c80e70d3b84daf67fb77238512832297e6973ea30'}
+  - {seq: 26, role: markers, filename: assets/KR4k0330_026.markers.yaml, hash: 'sha256:749fe57ad4145273eb490fde075a5f6f09d86ee36f73ba8c34c4ee760b2381e8'}
+  - {seq: 27, role: markers, filename: assets/KR4k0330_027.markers.yaml, hash: 'sha256:240129a21f7245492a92ff574e0a7d56bd0eca490656707ae28ef1be98616272'}
+  - {seq: 28, role: markers, filename: assets/KR4k0330_028.markers.yaml, hash: 'sha256:04fa571ddb85c0e91bb93f7a854d83c0352032a3009aa9b23c79bf1281d732c5'}
+  - {seq: 29, role: markers, filename: assets/KR4k0330_029.markers.yaml, hash: 'sha256:729b1d7a4db7504c27650f7023e85d9600d661834430c243d6a55f212b2cbfe9'}
+  - {seq: 30, role: markers, filename: assets/KR4k0330_030.markers.yaml, hash: 'sha256:97a83dccb34e38917ed57fda2227ce72226e17cce7010bcaa2e14a4c8732e145'}
+  - {seq: 31, role: markers, filename: assets/KR4k0330_031.markers.yaml, hash: 'sha256:2ac41e025bf6640c736b1646bc0e04b6d4869756dde13de2891ba4cbf48aed1a'}
+  - {seq: 32, role: markers, filename: assets/KR4k0330_032.markers.yaml, hash: 'sha256:ff278368c34df735685634390889dad4fa589885fb5f9554978a2ca8ff00a88b'}
+  - {seq: 33, role: markers, filename: assets/KR4k0330_033.markers.yaml, hash: 'sha256:c8578d7501b972931c3778903e9564b75e1d5802c1d66a52252f85d9fad6d1a7'}
+  - {seq: 34, role: markers, filename: assets/KR4k0330_034.markers.yaml, hash: 'sha256:72966c9639528624e771062d7798a4d8793f4683e746c0c07d45bd321ca25221'}
+  - {seq: 35, role: markers, filename: assets/KR4k0330_035.markers.yaml, hash: 'sha256:6f356c7b223227c52cc9b4435240d8345da74f961eff38689ad6e886c45282fb'}
+  - {seq: 36, role: markers, filename: assets/KR4k0330_036.markers.yaml, hash: 'sha256:cfb3d7db99ddcdf59da4c4a3d3ff562bad2a286cb0128db2e86dc8ef97eadc43'}
+  - {seq: 37, role: markers, filename: assets/KR4k0330_037.markers.yaml, hash: 'sha256:b7e0175cc8ae96e5b30820af96726f40de09f77d8fa7173d37b4e6617e205367'}
+  - {seq: 38, role: markers, filename: assets/KR4k0330_038.markers.yaml, hash: 'sha256:c776bdd593d52ee3563ebb3c78136f1a4e5dfe0c73b61e5d87e0bdbe126dcd61'}
+  - {seq: 39, role: markers, filename: assets/KR4k0330_039.markers.yaml, hash: 'sha256:4de0272aa85a4f07291bb396b40ee11872fa53846f7bd4965dbdec66c5be8f0a'}
+  - {seq: 40, role: markers, filename: assets/KR4k0330_040.markers.yaml, hash: 'sha256:138fadcae34465ac00fa84628fddb0766a1279092c8d8c14746c989cd4ae5705'}
+  - {seq: 41, role: markers, filename: assets/KR4k0330_041.markers.yaml, hash: 'sha256:66cbe9100ab740195e2b62dc18d061f64f8de34a9464ed12cd1472d010f1c8b8'}
+  - {seq: 42, role: markers, filename: assets/KR4k0330_042.markers.yaml, hash: 'sha256:6e144cf0de49d7824bc78ed7fde5e1ec5c703f27748fdf2752e2cc08f69ccdb9'}
+  - {seq: 43, role: markers, filename: assets/KR4k0330_043.markers.yaml, hash: 'sha256:7036ebca89e79589acaf7c58f08093cc623f66bbb6aa387bf952b85d55d7ff0c'}
+  - {seq: 44, role: markers, filename: assets/KR4k0330_044.markers.yaml, hash: 'sha256:9245b4a8fb3fd7e939cb3aabd42a6459767b373af2b93363df76abf59059a947'}
+  - {seq: 45, role: markers, filename: assets/KR4k0330_045.markers.yaml, hash: 'sha256:384c57164f84abed03abc849d0ae8559f03fccccb764b9d010eacca330555a44'}
+  - {seq: 46, role: markers, filename: assets/KR4k0330_046.markers.yaml, hash: 'sha256:266ac8108ac588d4791bbb10d3f67db69c5b6d091523eb5e477291870031d1dd'}
+  - {seq: 47, role: markers, filename: assets/KR4k0330_047.markers.yaml, hash: 'sha256:0b23b6eb22b2024121491552cc80bdc39de7951df144df1adf22953726e9cd1a'}
+  - {seq: 48, role: markers, filename: assets/KR4k0330_048.markers.yaml, hash: 'sha256:73f96e66c561a6dc9f1800b065eb774f47064e6c9a2940d87f9ef62d759dec35'}
+  - {seq: 49, role: markers, filename: assets/KR4k0330_049.markers.yaml, hash: 'sha256:16755ab442abb7977825b6e9e47efc8f2f8f2c760ee155d0b9f81f0b5c0fb8ed'}
+  - {seq: 50, role: markers, filename: assets/KR4k0330_050.markers.yaml, hash: 'sha256:c0b6511ac86200b4f37dadae72d0cc9b76aac550055a34e7bb735d2ca8beefe7'}
+  - {seq: 51, role: markers, filename: assets/KR4k0330_051.markers.yaml, hash: 'sha256:e3f9161db410448cdce595b17f141cafaa7ad5a1d308d59bb0f64b7acb7343e5'}
+  - {seq: 52, role: markers, filename: assets/KR4k0330_052.markers.yaml, hash: 'sha256:f247eca462d21682ad02fae6d8d400c472c8c2c1467b6d8bc1ddb88f073c2cff'}
+  - {seq: 53, role: markers, filename: assets/KR4k0330_053.markers.yaml, hash: 'sha256:e945783cca05232bd9c56d914701c189afd3822ed815fda56b2df07afa049e8b'}
+  - {seq: 54, role: markers, filename: assets/KR4k0330_054.markers.yaml, hash: 'sha256:36f5e7e2d749b3958e0ad7154c646693d6ecea73a1dd76dbb8e148085e8ec6f5'}
+  - {seq: 55, role: markers, filename: assets/KR4k0330_055.markers.yaml, hash: 'sha256:4a87690de0bcccfe0029bf38b31cdc87a10ee0bff33a842833475700432d7793'}
+  - {seq: 56, role: markers, filename: assets/KR4k0330_056.markers.yaml, hash: 'sha256:fc129e3158961ffc0c41dd6f3d61e80292c6efa47f71a5f7d1e6c3bde500d30f'}
+  - {seq: 57, role: markers, filename: assets/KR4k0330_057.markers.yaml, hash: 'sha256:e4665ac6a77aa1ecca0e6f4f76154a5278c30ea656dffe812aa2c3ee0f82cc1a'}
+  - {seq: 58, role: markers, filename: assets/KR4k0330_058.markers.yaml, hash: 'sha256:30b50e94a4dbdb47012c58db7ff9dbec914fdc4f0834be00f6d832bfc6d7c5a5'}
+  - {seq: 59, role: markers, filename: assets/KR4k0330_059.markers.yaml, hash: 'sha256:70844ac435e730f5815406f61ceeac2f36e98743722317fb321eebcc66501915'}
+  - {seq: 60, role: markers, filename: assets/KR4k0330_060.markers.yaml, hash: 'sha256:4bb090332138b262550a8673b45bf4a6b185582219b224b431f043fe1f8d605c'}
+  - {seq: 61, role: markers, filename: assets/KR4k0330_061.markers.yaml, hash: 'sha256:14a8dba6da928cba1e0039a927a6755198f39323c43bd3aec70536f4851720d7'}
+  - {seq: 62, role: markers, filename: assets/KR4k0330_062.markers.yaml, hash: 'sha256:4584eb438358718889cabc1c1a1d331c53293de4cfd91fb5287a4e352158a649'}
+  - {seq: 63, role: markers, filename: assets/KR4k0330_063.markers.yaml, hash: 'sha256:bee11558716cb1f8dad9f6f145083332a4c33b4fdb78e2fbb9d4fdec620f2561'}
+  - {seq: 64, role: markers, filename: assets/KR4k0330_064.markers.yaml, hash: 'sha256:d5a42b97fcf210e45a63700e239fb411318b3d1e6b88c0d3c82c8a0aaed3c00a'}
+  - {seq: 65, role: markers, filename: assets/KR4k0330_065.markers.yaml, hash: 'sha256:187b1fe71a03b5c74e0886d7ef85ff93f63a6febfacc990d7129df813d7cb0a6'}
+  - {seq: 66, role: markers, filename: assets/KR4k0330_066.markers.yaml, hash: 'sha256:8831d73cdc7819b7ea390e2ed0e5a28ac04d525b791fc4acc9eddf53d1d25573'}
+  - {seq: 67, role: markers, filename: assets/KR4k0330_067.markers.yaml, hash: 'sha256:c5698dd4e3c0d16e1108eb8f2a33447e0440b677354299dee3048d45e29d71a7'}
+  - {seq: 68, role: markers, filename: assets/KR4k0330_068.markers.yaml, hash: 'sha256:95dc6d4c7ac4201b38b21a8e2b09dd4a877c9b857d353175b7eeec69f9737ae3'}
+  - {seq: 69, role: markers, filename: assets/KR4k0330_069.markers.yaml, hash: 'sha256:220f77ab899de8d92538f8133ab59903df85d412ff37f9a3ce6270d2add32755'}
+  - {seq: 70, role: markers, filename: assets/KR4k0330_070.markers.yaml, hash: 'sha256:fa9d953ac057914fb21cc3d6262937a2f8e91f1c629d6387b70e6766975f9565'}
+  - {seq: 71, role: markers, filename: assets/KR4k0330_071.markers.yaml, hash: 'sha256:40844f3b0360e606eaeff41448e3c86cff7965f4a381e1a27c17da8cd3ddc7e6'}
+  - {seq: 72, role: markers, filename: assets/KR4k0330_072.markers.yaml, hash: 'sha256:e93769c5196fdc8b6449543bb0735ed7b3ce4fd34939ecbcec6914ecd328c12b'}
+  - {seq: 73, role: markers, filename: assets/KR4k0330_073.markers.yaml, hash: 'sha256:72a826ceed220c81fe6b06b3be6d3af05857ed2679a80f1b6652e24fae4f57f8'}
+  - {seq: 74, role: markers, filename: assets/KR4k0330_074.markers.yaml, hash: 'sha256:c44ca9c4b312c34e5af70678e6234cc5a1061da854d4782155cc0fcf89df30bf'}
+  - {seq: 75, role: markers, filename: assets/KR4k0330_075.markers.yaml, hash: 'sha256:335fd17c88a39c0cdabdadb9da2a1bf7c32547da89699e41b57efbee43e21d21'}
+  - {seq: 76, role: markers, filename: assets/KR4k0330_076.markers.yaml, hash: 'sha256:b09059a31056dbef7f4edbcd69ef5a2856a420bffa1c9c482db2f77322d5efde'}
+  - {seq: 77, role: markers, filename: assets/KR4k0330_077.markers.yaml, hash: 'sha256:86891a8d52071d92e880bcfd67a521b95d5a61641c594a7bd6eda7a0b72fcd2b'}
+  - {seq: 78, role: markers, filename: assets/KR4k0330_078.markers.yaml, hash: 'sha256:70b9de88edf93a3f0767cb4b02d4bd375b1edb7a975204e454332e8761e00f25'}
+  - {seq: 79, role: markers, filename: assets/KR4k0330_079.markers.yaml, hash: 'sha256:1208c1b8e33672f554712feca8ab2f61ad85d51b38587e3023d9d14c226f2f81'}
+  - {seq: 80, role: markers, filename: assets/KR4k0330_080.markers.yaml, hash: 'sha256:db27352ea205a01d3cb6b0f3e6333a3b1d456dbaa6e52779897c7ee61481f317'}
+  - {seq: 81, role: markers, filename: assets/KR4k0330_081.markers.yaml, hash: 'sha256:f891a293a9122faab4dad0496bb9cf50daa7525b42a23d2f5931bf963cbb3e96'}
+  - {seq: 82, role: markers, filename: assets/KR4k0330_082.markers.yaml, hash: 'sha256:3191ee2d01fbaa18d021916be906186661f3de9e33751b2998a19541622c88e8'}
+  - {seq: 83, role: markers, filename: assets/KR4k0330_083.markers.yaml, hash: 'sha256:aae94b8a575a0a3e2aec6a8c6cdd097d7040447d5cb3eea443a3398a4fc1f174'}
+  - {seq: 84, role: markers, filename: assets/KR4k0330_084.markers.yaml, hash: 'sha256:bff9b38ac8a8bf84853238489633d7e2b62552a378333892081d2ab68227cc53'}
+  - {seq: 85, role: markers, filename: assets/KR4k0330_085.markers.yaml, hash: 'sha256:d062fd5e47e1402d6e1aec9cc78ec1f8e5248606c880a32031e887ac936403ef'}
+  - {seq: 86, role: markers, filename: assets/KR4k0330_086.markers.yaml, hash: 'sha256:14f2f8cf25b5fb135647265441151b5b61e999474b402cee6ffef57849178fa7'}
+  - {seq: 87, role: markers, filename: assets/KR4k0330_087.markers.yaml, hash: 'sha256:1020d7c27ff4100ec7d90cc1d5c22f0662245ca88f7f02eda6a277f9c01a4609'}
+  - {seq: 88, role: markers, filename: assets/KR4k0330_088.markers.yaml, hash: 'sha256:8a910c625e510056336c0ecf8c0fce09a403c772e0e1851c3ecd48b2351fb312'}
+  - {seq: 89, role: markers, filename: assets/KR4k0330_089.markers.yaml, hash: 'sha256:9af2da84d1b404e2a7c36287805c5866188d5f6f2d76bc0a521fc9d0da8e27fe'}
+  - {seq: 90, role: markers, filename: assets/KR4k0330_090.markers.yaml, hash: 'sha256:89fa65e9b5705b966114aac40d09c1c7b506a66bcd788da28a53277fb07c686b'}
+  - {seq: 91, role: markers, filename: assets/KR4k0330_091.markers.yaml, hash: 'sha256:20da1bc82d0b583143329c57d4b138215412c12d0322032722c918d26f345873'}
+  - {seq: 92, role: markers, filename: assets/KR4k0330_092.markers.yaml, hash: 'sha256:54bee54d247211a5296f523441dec25d6911a1e14285e21850c7692952735e3f'}
+  - {seq: 93, role: markers, filename: assets/KR4k0330_093.markers.yaml, hash: 'sha256:9603a7a26686016c48f4cd5b94837f41679adead936bd4cef5bb8513812a1894'}
+  - {seq: 94, role: markers, filename: assets/KR4k0330_094.markers.yaml, hash: 'sha256:8ed00860a886151c3b2bb809028b18cb84e0a04c871020fb007de9d1b7f5eba1'}
+  - {seq: 95, role: markers, filename: assets/KR4k0330_095.markers.yaml, hash: 'sha256:7c87ee80ded239f47113f7035c5a2233d10722dc9190e4c49f9deb5ba5bad556'}
+  - {seq: 96, role: markers, filename: assets/KR4k0330_096.markers.yaml, hash: 'sha256:0b2546c60113faeb597b5fd63997c9f5ba653a64f3b1e47c607a9124137de377'}
+  - {seq: 97, role: markers, filename: assets/KR4k0330_097.markers.yaml, hash: 'sha256:b554942d5e77f995e3d63fd67ab26ce9ecda5f117bb607345d1ca89f713866d1'}
+  - {seq: 98, role: markers, filename: assets/KR4k0330_098.markers.yaml, hash: 'sha256:cb36da3179c187c747ea3ddde2bb36de8fbbdf030157f5d51c9cb4702c064a66'}
+  - {seq: 99, role: markers, filename: assets/KR4k0330_099.markers.yaml, hash: 'sha256:e62488f305aada6f659698e854441c5f455c28d3bb1df040abe4be105a303fb3'}
+  - {seq: 100, role: markers, filename: assets/KR4k0330_100.markers.yaml, hash: 'sha256:5ea55523e062577c0baf32dc46a0de6ddc2fda141a44567ccd7d82eed19ec0d0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4k0330_kf_000-h.1
+    span:
+    - body
+    - 0
+    - 1203
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4k0330_kf_001-h.1
+    span:
+    - body
+    - 0
+    - 3316
+  label: 第一回元世祖貶聖伐陵
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4k0330_kf_002-h.1
+    span:
+    - body
+    - 0
+    - 2200
+  label: 第二回程廉訪招賢納士
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4k0330_kf_003-h.1
+    span:
+    - body
+    - 0
+    - 3628
+  label: 第三回冬青樹記換君王骨
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4k0330_kf_004-h.1
+    span:
+    - body
+    - 0
+    - 2241
+  label: 第四回靈隱寺激怒英雄心
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4k0330_kf_005-h.1
+    span:
+    - body
+    - 0
+    - 3339
+  label: 第五回寇複雷大鬧臨安郡
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4k0330_kf_006-h.1
+    span:
+    - body
+    - 0
+    - 1894
+  label: 第六回秦錦帛起義紫金山
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4k0330_kf_007-h.1
+    span:
+    - body
+    - 0
+    - 2517
+  label: 第七回楊鎮龍兵犯牛渚
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4k0330_kf_008-h.1
+    span:
+    - body
+    - 0
+    - 2707
+  label: 第八回鍾明亮入寇藍關
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR4k0330_kf_009-h.1
+    span:
+    - body
+    - 0
+    - 3145
+  label: 第九回北固亭范國昌望氣
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR4k0330_kf_010-h.1
+    span:
+    - body
+    - 0
+    - 3430
+  label: 第十回棲霞嶺皇甫惇題詩
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR4k0330_kf_011-h.1
+    span:
+    - body
+    - 0
+    - 3346
+  label: 第十一回征曰本蒙古喪師
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR4k0330_kf_012-h.1
+    span:
+    - body
+    - 0
+    - 3030
+  label: 第十二回走占城涪陵返國
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR4k0330_kf_013-h.1
+    span:
+    - body
+    - 0
+    - 2856
+  label: 第十三回智深獻策掠廣陵
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR4k0330_kf_014-h.1
+    span:
+    - body
+    - 0
+    - 3880
+  label: 第十四回萬俟蠣棄家走壽春
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR4k0330_kf_015-h.1
+    span:
+    - body
+    - 0
+    - 3116
+  label: 第十五回種世龍傳檄達荊楚
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR4k0330_kf_016-h.1
+    span:
+    - body
+    - 0
+    - 2610
+  label: 第十六回楊孝伯擊楫過洞庭
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR4k0330_kf_017-h.1
+    span:
+    - body
+    - 0
+    - 2479
+  label: 第十七回壽陽城錫帛僭號
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR4k0330_kf_018-h.1
+    span:
+    - body
+    - 0
+    - 2511
+  label: 第十八回虎丘寺涪陵遇友
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR4k0330_kf_019-h.1
+    span:
+    - body
+    - 0
+    - 3351
+  label: 第十九回狄招討一征羅浮
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR4k0330_kf_020-h.1
+    span:
+    - body
+    - 0
+    - 2659
+  label: 第二十回韓搏虎七敗賈翀
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR4k0330_kf_021-h.1
+    span:
+    - body
+    - 0
+    - 2167
+  label: 第二十一回岳燕超官辭參政
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR4k0330_kf_022-h.1
+    span:
+    - body
+    - 0
+    - 3863
+  label: 第二十二回狄招討二征羅浮
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR4k0330_kf_023-h.1
+    span:
+    - body
+    - 0
+    - 2998
+  label: 第二十三回襄陽城賈羽辛授首
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR4k0330_kf_024-h.1
+    span:
+    - body
+    - 0
+    - 3344
+  label: 第二十四回鐵幢浦秦楠敗兵
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR4k0330_kf_025-h.1
+    span:
+    - body
+    - 0
+    - 2916
+  label: 第二十五回蹠跋將計取南安
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR4k0330_kf_026-h.1
+    span:
+    - body
+    - 0
+    - 4576
+  label: 第二十六回涪陵公兵進邵武
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR4k0330_kf_027-h.1
+    span:
+    - body
+    - 0
+    - 3330
+  label: 第二十七回范國昌入夢承簡命
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR4k0330_kf_028-h.1
+    span:
+    - body
+    - 0
+    - 4071
+  label: 第二十八回劉先鋒修書取漳州
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR4k0330_kf_029-h.1
+    span:
+    - body
+    - 0
+    - 3158
+  label: 第二十九回趙涪陵聘賢龍首
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR4k0330_kf_030-h.1
+    span:
+    - body
+    - 0
+    - 6027
+  label: 第三十回狄招討三征羅浮
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR4k0330_kf_031-h.1
+    span:
+    - body
+    - 0
+    - 5165
+  label: 第三十一回白映雪奇緣有幸
+  type: section
+  level: 1
+- ref:
+    seq: 32
+    marker_id: KR4k0330_kf_032-h.1
+    span:
+    - body
+    - 0
+    - 4629
+  label: 第三十二回寇竹生慘遇無辜
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR4k0330_kf_033-h.1
+    span:
+    - body
+    - 0
+    - 2712
+  label: 第三十三回翔龍府風雲會合
+  type: section
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR4k0330_kf_034-h.1
+    span:
+    - body
+    - 0
+    - 8983
+  label: 第三十四回南雄鎮雷雨交兵
+  type: section
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR4k0330_kf_035-h.1
+    span:
+    - body
+    - 0
+    - 5181
+  label: 第三十五回德報德上官樸免禍
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR4k0330_kf_036-h.1
+    span:
+    - body
+    - 0
+    - 3644
+  label: 第三十六回冤構冤萬俟蠣殺身
+  type: section
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR4k0330_kf_037-h.1
+    span:
+    - body
+    - 0
+    - 1675
+  label: 第三十七回涪陵王大興屯田
+  type: section
+  level: 1
+- ref:
+    seq: 38
+    marker_id: KR4k0330_kf_038-h.1
+    span:
+    - body
+    - 0
+    - 2102
+  label: 第三十八回淳于丹論史匡君
+  type: section
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR4k0330_kf_039-h.1
+    span:
+    - body
+    - 0
+    - 1840
+  label: 第三十九回岳燕超練兵演陣
+  type: section
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR4k0330_kf_040-h.1
+    span:
+    - body
+    - 0
+    - 2553
+  label: 第四十回藍天蔚棄暗投明
+  type: section
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR4k0330_kf_041-h.1
+    span:
+    - body
+    - 0
+    - 2740
+  label: 第四十一回謝侍郎燕京死節
+  type: section
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR4k0330_kf_042-h.1
+    span:
+    - body
+    - 0
+    - 2996
+  label: 第四十二回梅參政淮南召兵
+  type: section
+  level: 1
+- ref:
+    seq: 43
+    marker_id: KR4k0330_kf_043-h.1
+    span:
+    - body
+    - 0
+    - 5013
+  label: 第四十三回金山寺索通盜寶
+  type: section
+  level: 1
+- ref:
+    seq: 44
+    marker_id: KR4k0330_kf_044-h.1
+    span:
+    - body
+    - 0
+    - 4157
+  label: 第四十四回周處台馬陵伏妖
+  type: section
+  level: 1
+- ref:
+    seq: 45
+    marker_id: KR4k0330_kf_045-h.1
+    span:
+    - body
+    - 0
+    - 1496
+  label: 第四十五回梅參政昭關戰死
+  type: section
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR4k0330_kf_046-h.1
+    span:
+    - body
+    - 0
+    - 2397
+  label: 第四十六回賈平章壽陽篡位
+  type: section
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR4k0330_kf_047-h.1
+    span:
+    - body
+    - 0
+    - 2435
+  label: 第四十七回鳳凰台大開武選
+  type: section
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR4k0330_kf_048-h.1
+    span:
+    - body
+    - 0
+    - 4042
+  label: 第四十八回鴛鴦絹巧判良緣
+  type: section
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR4k0330_kf_049-h.1
+    span:
+    - body
+    - 0
+    - 2463
+  label: 第四十九回岳招討計賺長沙
+  type: section
+  level: 1
+- ref:
+    seq: 50
+    marker_id: KR4k0330_kf_050-h.1
+    span:
+    - body
+    - 0
+    - 2246
+  label: 第五十回慕容長鏖兵武陵
+  type: section
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR4k0330_kf_051-h.1
+    span:
+    - body
+    - 0
+    - 1786
+  label: 第五十一回西冷橋樊生遇豔
+  type: section
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR4k0330_kf_052-h.1
+    span:
+    - body
+    - 0
+    - 1435
+  label: 第五十二回木棉庵老魅譚禪
+  type: section
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR4k0330_kf_053-h.1
+    span:
+    - body
+    - 0
+    - 1398
+  label: 第五十三回扈先鋒收復岳陽郡
+  type: section
+  level: 1
+- ref:
+    seq: 54
+    marker_id: KR4k0330_kf_054-h.1
+    span:
+    - body
+    - 0
+    - 1851
+  label: 第五十四回元太后駕遊五臺山
+  type: section
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR4k0330_kf_055-h.1
+    span:
+    - body
+    - 0
+    - 1798
+  label: 第五十五回兩先鋒分剿雲夢
+  type: section
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR4k0330_kf_056-h.1
+    span:
+    - body
+    - 0
+    - 3000
+  label: 第五十六回嶽招討怒打襄陽
+  type: section
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR4k0330_kf_057-h.1
+    span:
+    - body
+    - 0
+    - 1157
+  label: 第五十七回廣陵散竹生得譜
+  type: section
+  level: 1
+- ref:
+    seq: 58
+    marker_id: KR4k0330_kf_058-h.1
+    span:
+    - body
+    - 0
+    - 4096
+  label: 第五十八回牡丹鈿玉奴擇婿
+  type: section
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR4k0330_kf_059-h.1
+    span:
+    - body
+    - 0
+    - 3053
+  label: 第五十九回耿星星兵敗海門島
+  type: section
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR4k0330_kf_060-h.1
+    span:
+    - body
+    - 0
+    - 2717
+  label: 第六十回王用槐吹蕭九嶷山
+  type: section
+  level: 1
+- ref:
+    seq: 61
+    marker_id: KR4k0330_kf_061-h.1
+    span:
+    - body
+    - 0
+    - 2557
+  label: 第六十一回炎宋興複設方鎮
+  type: section
+  level: 1
+- ref:
+    seq: 62
+    marker_id: KR4k0330_kf_062-h.1
+    span:
+    - body
+    - 0
+    - 2281
+  label: 第六十二回衆夷國入貢武都
+  type: section
+  level: 1
+- ref:
+    seq: 63
+    marker_id: KR4k0330_kf_063-h.1
+    span:
+    - body
+    - 0
+    - 1772
+  label: 第六十三回蘇公堤朝雲集句
+  type: section
+  level: 1
+- ref:
+    seq: 64
+    marker_id: KR4k0330_kf_064-h.1
+    span:
+    - body
+    - 0
+    - 2155
+  label: 第六十四回七星岩焦芳殉節
+  type: section
+  level: 1
+- ref:
+    seq: 65
+    marker_id: KR4k0330_kf_065-h.1
+    span:
+    - body
+    - 0
+    - 4626
+  label: 第六十五回雲貞女萬里傳書
+  type: section
+  level: 1
+- ref:
+    seq: 66
+    marker_id: KR4k0330_kf_066-h.1
+    span:
+    - body
+    - 0
+    - 1321
+  label: 第六十六回鍾情人一心合墓
+  type: section
+  level: 1
+- ref:
+    seq: 67
+    marker_id: KR4k0330_kf_067-h.1
+    span:
+    - body
+    - 0
+    - 1672
+  label: 第六十七回宋主重立元祐碑
+  type: section
+  level: 1
+- ref:
+    seq: 68
+    marker_id: KR4k0330_kf_068-h.1
+    span:
+    - body
+    - 0
+    - 1759
+  label: 第六十八回孝伯誤陷金鎖陣
+  type: section
+  level: 1
+- ref:
+    seq: 69
+    marker_id: KR4k0330_kf_069-h.1
+    span:
+    - body
+    - 0
+    - 1976
+  label: 第六十九回韓太尉罵死留夢炎
+  type: section
+  level: 1
+- ref:
+    seq: 70
+    marker_id: KR4k0330_kf_070-h.1
+    span:
+    - body
+    - 0
+    - 2692
+  label: 第七十回關將軍招降呂大成
+  type: section
+  level: 1
+- ref:
+    seq: 71
+    marker_id: KR4k0330_kf_071-h.1
+    span:
+    - body
+    - 0
+    - 2182
+  label: 第七十一回寶林寺韓昭毀佛
+  type: section
+  level: 1
+- ref:
+    seq: 72
+    marker_id: KR4k0330_kf_072-h.1
+    span:
+    - body
+    - 0
+    - 2483
+  label: 第七十二回摩天嶺三將隕命
+  type: section
+  level: 1
+- ref:
+    seq: 73
+    marker_id: KR4k0330_kf_073-h.1
+    span:
+    - body
+    - 0
+    - 2454
+  label: 第七十三回蘇縣令巧決疑訟
+  type: section
+  level: 1
+- ref:
+    seq: 74
+    marker_id: KR4k0330_kf_074-h.1
+    span:
+    - body
+    - 0
+    - 919
+  label: 第七十四回王太常詞慰幽魂
+  type: section
+  level: 1
+- ref:
+    seq: 75
+    marker_id: KR4k0330_kf_075-h.1
+    span:
+    - body
+    - 0
+    - 2091
+  label: 第七十五回寇節度力戰青龍嶺
+  type: section
+  level: 1
+- ref:
+    seq: 76
+    marker_id: KR4k0330_kf_076-h.1
+    span:
+    - body
+    - 0
+    - 2432
+  label: 第七十六回狄樞密智破昆侖關
+  type: section
+  level: 1
+- ref:
+    seq: 77
+    marker_id: KR4k0330_kf_077-h.1
+    span:
+    - body
+    - 0
+    - 2204
+  label: 第七十七回範仆射登臺觀星
+  type: section
+  level: 1
+- ref:
+    seq: 78
+    marker_id: KR4k0330_kf_078-h.1
+    span:
+    - body
+    - 0
+    - 1526
+  label: 第七十八回元世祖入夢崇聖
+  type: section
+  level: 1
+- ref:
+    seq: 79
+    marker_id: KR4k0330_kf_079-h.1
+    span:
+    - body
+    - 0
+    - 2351
+  label: 第七十九回黃金河大破元兵
+  type: section
+  level: 1
+- ref:
+    seq: 80
+    marker_id: KR4k0330_kf_080-h.1
+    span:
+    - body
+    - 0
+    - 4413
+  label: 第八十回太乙陣生擒索虎通
+  type: section
+  level: 1
+- ref:
+    seq: 81
+    marker_id: KR4k0330_kf_081-h.1
+    span:
+    - body
+    - 0
+    - 4241
+  label: 第八十一回趙孟頫入宋和兵
+  type: section
+  level: 1
+- ref:
+    seq: 82
+    marker_id: KR4k0330_kf_082-h.1
+    span:
+    - body
+    - 0
+    - 2869
+  label: 第八十二回令狐韜當殿論璽
+  type: section
+  level: 1
+- ref:
+    seq: 83
+    marker_id: KR4k0330_kf_083-h.1
+    span:
+    - body
+    - 0
+    - 2184
+  label: 第八十三回廿四堆宋主掃墓
+  type: section
+  level: 1
+- ref:
+    seq: 84
+    marker_id: KR4k0330_kf_084-h.1
+    span:
+    - body
+    - 0
+    - 1114
+  label: 第八十四回楊妃井太真洗心
+  type: section
+  level: 1
+- ref:
+    seq: 85
+    marker_id: KR4k0330_kf_085-h.1
+    span:
+    - body
+    - 0
+    - 1545
+  label: 第八十五回宋昭帝詔求直諫
+  type: section
+  level: 1
+- ref:
+    seq: 86
+    marker_id: KR4k0330_kf_086-h.1
+    span:
+    - front
+    - 0
+    - 955
+  label: 第八十六回吳草廬不序藏經
+  type: section
+  level: 1
+- ref:
+    seq: 87
+    marker_id: KR4k0330_kf_087-h.1
+    span:
+    - body
+    - 0
+    - 2149
+  label: 第八十七回三清樓公孫醉酒
+  type: section
+  level: 1
+- ref:
+    seq: 88
+    marker_id: KR4k0330_kf_088-h.1
+    span:
+    - body
+    - 0
+    - 3706
+  label: 第八十八回劉蕡墓軒轅還金
+  type: section
+  level: 1
+- ref:
+    seq: 89
+    marker_id: KR4k0330_kf_089-h.1
+    span:
+    - body
+    - 0
+    - 1325
+  label: 第八十九回烏蒙僧巧設騙局
+  type: section
+  level: 1
+- ref:
+    seq: 90
+    marker_id: KR4k0330_kf_090-h.1
+    span:
+    - body
+    - 0
+    - 2107
+  label: 第九十回許廉訪請頒葬制
+  type: section
+  level: 1
+- ref:
+    seq: 91
+    marker_id: KR4k0330_kf_091-h.1
+    span:
+    - body
+    - 0
+    - 1769
+  label: 第九十一回趙完普焚香告天
+  type: section
+  level: 1
+- ref:
+    seq: 92
+    marker_id: KR4k0330_kf_092-h.1
+    span:
+    - body
+    - 0
+    - 1033
+  label: 第九十二回潞安王出守歸國
+  type: section
+  level: 1
+- ref:
+    seq: 93
+    marker_id: KR4k0330_kf_093-h.1
+    span:
+    - body
+    - 0
+    - 969
+  label: 第九十三回還珠亭冤鬼泄憤
+  type: section
+  level: 1
+- ref:
+    seq: 94
+    marker_id: KR4k0330_kf_094-h.1
+    span:
+    - body
+    - 0
+    - 1440
+  label: 第九十四回清風嶺廉夫祈嗣
+  type: section
+  level: 1
+- ref:
+    seq: 95
+    marker_id: KR4k0330_kf_095-h.1
+    span:
+    - body
+    - 0
+    - 1298
+  label: 第九十五回張士誠販鹽起泰州
+  type: section
+  level: 1
+- ref:
+    seq: 96
+    marker_id: KR4k0330_kf_096-h.1
+    span:
+    - body
+    - 0
+    - 1451
+  label: 第九十六回劉伯溫望氣遊西湖
+  type: section
+  level: 1
+- ref:
+    seq: 97
+    marker_id: KR4k0330_kf_097-h.1
+    span:
+    - body
+    - 0
+    - 1852
+  label: 第九十七回脫脫決議開黃河
+  type: section
+  level: 1
+- ref:
+    seq: 98
+    marker_id: KR4k0330_kf_098-h.1
+    span:
+    - body
+    - 0
+    - 1021
+  label: 第九十八回哈麻獻策造龍舟
+  type: section
+  level: 1
+- ref:
+    seq: 99
+    marker_id: KR4k0330_kf_099-h.1
+    span:
+    - body
+    - 0
+    - 2408
+  label: 第九十九回韓節度誤釋友諒
+  type: section
+  level: 1
+- ref:
+    seq: 100
+    marker_id: KR4k0330_kf_100-h.1
+    span:
+    - body
+    - 0
+    - 1788
+  label: 第一百回明太祖應運和陽
+  type: section
+  level: 1
+metadata:
+  title: 元代野史
+  identifiers:
+    krp: KR4k0330
+  tags:
+    kr-categories: KR4k
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0330.xml
+  edition:
+    short: bkk
+hash: sha256:1ca32fef83264c1c78f8f52d005818dc1c5da46935abdb4921e6ec73a1c0fe39
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
