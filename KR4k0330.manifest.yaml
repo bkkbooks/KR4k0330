@@ -91,7 +91,7 @@ assets:
   - {seq: 83, filename: KR4k0330_083.yaml, hash: 'sha256:7eb05ee8b3ed388337d5b82cb6cf17a4bbf2ed3342332c634baefc38abba8bc5'}
   - {seq: 84, filename: KR4k0330_084.yaml, hash: 'sha256:d85627ea9f59c6fdcb3faf640babb6fef8bc808aabe8d4ee766d3d97b7bcb722'}
   - {seq: 85, filename: KR4k0330_085.yaml, hash: 'sha256:cdbe72a67580cf8d50adfcfe8c8c5fe6a6658fb6ce9e28b6f43a5a50756418a3'}
-  - {seq: 86, filename: KR4k0330_086.yaml, hash: 'sha256:7a17d382ddfde5f4ceb2abb89106a8e4c91c2bb4504e47c31cac7e855175c1a6'}
+  - {seq: 86, filename: KR4k0330_086.yaml, hash: 'sha256:1a8531037fce729186e5715ee958892f222e7aa66af9ff97828327eb147fac29'}
   - {seq: 87, filename: KR4k0330_087.yaml, hash: 'sha256:779e3c4c20ed040e8001cf5b974bdeea448eaa13364bbec608160abb2ecd4667'}
   - {seq: 88, filename: KR4k0330_088.yaml, hash: 'sha256:07e281e9390e2cf9f8479cc953448c55abe8f5354af12f3041eec2d727846668'}
   - {seq: 89, filename: KR4k0330_089.yaml, hash: 'sha256:f65b437898a982e80d5345ad9bea34a353f2b20bdef1b1df01873918f2398960'}
@@ -193,7 +193,7 @@ assets:
   - {seq: 83, role: markers, filename: assets/KR4k0330_083.markers.yaml, hash: 'sha256:aae94b8a575a0a3e2aec6a8c6cdd097d7040447d5cb3eea443a3398a4fc1f174'}
   - {seq: 84, role: markers, filename: assets/KR4k0330_084.markers.yaml, hash: 'sha256:bff9b38ac8a8bf84853238489633d7e2b62552a378333892081d2ab68227cc53'}
   - {seq: 85, role: markers, filename: assets/KR4k0330_085.markers.yaml, hash: 'sha256:d062fd5e47e1402d6e1aec9cc78ec1f8e5248606c880a32031e887ac936403ef'}
-  - {seq: 86, role: markers, filename: assets/KR4k0330_086.markers.yaml, hash: 'sha256:df8986be4c3596e0ffcb881a0260c91287aef855affe6ec987fb32d290554bbd'}
+  - {seq: 86, role: markers, filename: assets/KR4k0330_086.markers.yaml, hash: 'sha256:4606e65b347e7faf135c11d574e1d489b2541c6f5c2efe078243783861f90bb8'}
   - {seq: 87, role: markers, filename: assets/KR4k0330_087.markers.yaml, hash: 'sha256:1020d7c27ff4100ec7d90cc1d5c22f0662245ca88f7f02eda6a277f9c01a4609'}
   - {seq: 88, role: markers, filename: assets/KR4k0330_088.markers.yaml, hash: 'sha256:8a910c625e510056336c0ecf8c0fce09a403c772e0e1851c3ecd48b2351fb312'}
   - {seq: 89, role: markers, filename: assets/KR4k0330_089.markers.yaml, hash: 'sha256:9af2da84d1b404e2a7c36287805c5866188d5f6f2d76bc0a521fc9d0da8e27fe'}
@@ -1073,7 +1073,7 @@ table_of_contents:
     seq: 86
     marker_id: KR4k0330_kf_086-h.1
     span:
-    - front
+    - body
     - 0
     - 955
   label: 第八十六回吳草廬不序藏經
@@ -1230,7 +1230,7 @@ metadata:
     path: data/tls/KR4k0330.xml
   edition:
     short: bkk
-hash: sha256:06275b5ece7dba9f86652e0be1ffea1ec62f35779f51a41661e682c5e5961049
+hash: sha256:8c9d0888e0b0890de139a2df993fec0f21559481a68a6c8dcf6f005d665d1f57
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
